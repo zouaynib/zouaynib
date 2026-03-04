@@ -1,87 +1,89 @@
 <h1 align="center">Hi 👋, I'm Zaynab Raounak</h1>
-<h3 align="center">An aspiring Machine Learning Engineer</h3>
+<h3 align="center">Aspiring Machine Learning Engineer | Deep Learning Explorer</h3>
 
 <p align="center">
-I am deeply fascinated by how intelligent systems are transforming the world. 
-My journey into engineering naturally evolved toward Machine Learning and Data Science, 
-where mathematics, algorithms, and real-world impact intersect. 
-I enjoy building deep learning models, exploring data-driven solutions, 
-and continuously expanding my understanding of AI systems.
+I am passionate about building intelligent systems that learn from data and create real-world impact.  
+Currently diving deeper into Deep Learning, MLOps, and advanced AI systems.
 </p>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="zaynab-raounak" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<h3 align="left">About Me:</h3>
+<img align="right" alt="AI Coding" width="400" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
 
-- 🎓 Engineering student at CentraleSupélec that is passionate about AI & Machine Learning  
-- 🌱 Currently learning **Deep Learning, MLOps, and Advanced Data Science**  
-- 🔬 Interested in **Neural Networks, Computer Vision, NLP, and Predictive Modeling**  
-- 💻 I love building real-world ML projects from data preprocessing to model deployment  
-- 🚀 Actively looking for **Machine Learning / Data Science internships**  
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, and Data Analysis**  
+### 🚀 About Me
+
+- 🎓 Engineering student focused on Artificial Intelligence  
+- 🌱 Currently learning **Advanced Deep Learning & Model Optimization**  
+- 🧠 Interested in **Computer Vision, NLP, and Predictive Modeling**  
+- 📊 Passionate about end-to-end ML pipelines  
+- 🚀 Actively seeking **Machine Learning / Data Science internships**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🧠 Tech Stack
 
-### 🧠 Machine Learning & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,aws,git,github,linux" />
+</div>
 
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- TensorFlow / PyTorch  
-- Matplotlib / Seaborn  
+---
 
-### 💻 Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
+# 📊 GitHub Analytics
 
-### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### ⚙️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 </p>
 
 ---
 
-<h3 align="left">What I’m Working On:</h3>
+# 🔥 GitHub Streak
 
-- 📊 End-to-end Machine Learning pipelines  
-- 🧠 Deep learning models for structured and unstructured data  
-- 📈 Data analysis and feature engineering projects  
-- 🛠️ Experimenting with model optimization and deployment  
-
----
-
-<h3 align="left">Goals:</h3>
-
-- Contribute to impactful AI projects  
-- Strengthen theoretical foundations in ML  
-- Gain hands-on industry experience through internships  
-- Build scalable and production-ready ML systems  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&border_radius=15" height="200"/>
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+# 📈 Contribution Graph
 
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-LinkedIn
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 💡 Random Dev Quote (Dynamic)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zaynab-raounak-2728a0208/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-<p align="right">Created with curiosity and ambition 🤍</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</p>
