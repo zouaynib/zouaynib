@@ -43,12 +43,12 @@ Currently diving deeper into Deep Learning, MLOps, and advanced AI systems.
 ---
 
 # 🔥 GitHub Streak
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=zouaynib)](https://git.io/streak-stats)
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zouaynib)](https://git.io/streak-stats)
 
 
-
-# 💡 Random Dev Quote (Dynamic)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
