@@ -14,7 +14,7 @@ Currently diving deeper into Deep Learning, MLOps, and advanced AI systems.
 
 <img align="right" alt="AI Coding" width="400" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tueW1wMm1jd240djBydzZ5eHplM28xMGE1aDU3NzlteWJ2N2Q5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.gif)
 
 
 
