@@ -14,6 +14,10 @@ Currently diving deeper into Deep Learning, MLOps, and advanced AI systems.
 
 <img align="right" alt="AI Coding" width="400" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
 
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
+
+
 ### 🚀 About Me
 
 - 🎓 Engineering student focused on Artificial Intelligence  
@@ -45,7 +49,7 @@ Currently diving deeper into Deep Learning, MLOps, and advanced AI systems.
 # 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zouaynib)](https://git.io/streak-stats)
-
+o
 
 
 
