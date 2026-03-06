@@ -23,8 +23,8 @@
 class ZaynabRaounak:
     def __init__(self):
         self.role      = "Aspiring ML Engineer"
-        self.education = "Engineering Student @ AI Track"
-        self.location  = "Morocco 🇲🇦"
+        self.education = "M.Sc. AI Student @CentraleSupélec"
+        self.location  = "Paris 🇫🇷"
         self.passions  = [
             "Deep Learning",
             "Computer Vision",
